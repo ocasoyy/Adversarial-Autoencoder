@@ -1,4 +1,3 @@
 ## Adversarial Autoencoder  
-`AAE`를 Tensorflow로 구현
-
-
+Tensorflow Implementation of Adversarial Autoencoder.
+Original Paper: [This Address](https://arxiv.org/abs/1511.05644)
